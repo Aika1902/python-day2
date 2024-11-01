@@ -10,3 +10,4 @@ while guess != number_of_guess:
         print("Too high, try again")
     else:
         print("Congrats, you guessed the number!")
+#My name is Aizat
